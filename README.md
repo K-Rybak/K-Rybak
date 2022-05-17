@@ -33,7 +33,82 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 #
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 39 Contributions in the Year 2022
+ > 
+> 📦 189.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
+🌆 Daytime    37 commits     █████████████░░░░░░░░░░░░   53.62% 
+🌃 Evening    26 commits     █████████░░░░░░░░░░░░░░░░   37.68% 
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.25%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Tuesday      21 commits     ███████░░░░░░░░░░░░░░░░░░   30.43% 
+Wednesday    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
+Friday       9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Saturday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+Sunday       15 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Almaty
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     37 repos            ███████████████░░░░░░░░░░   61.67% 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/K-Rybak/K-Rybak/main/charts/bar_graph.png) 
+
+
+ Last Updated on 17/05/2022 11:57:13 UTC
 <!--END_SECTION:waka-->
 #
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-rybak&theme=solarized_dark)
