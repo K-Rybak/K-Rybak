@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+world!;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=K-Rybak)
 [![codewars](https://www.codewars.com/users/K-Rybak/badges/small)](https://www.codewars.com/users/K-Rybak) 
+<img align="right" src="https://komarev.com/ghpvc/?username=K-Rybak">
 
 🌱 I’m currently learning C#, ASP.NET, Python 
 
@@ -14,10 +14,6 @@
 📄 View my [CV](https://almaty.hh.kz/resume/13e886f9ff034c111e0039ed1f75714b386373)
 
 🌍 I speak Russian (native), English (A2)
-
-
-
-
 
 ## Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krybak)
