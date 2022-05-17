@@ -33,41 +33,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 #
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 39 Contributions in the Year 2022
- > 
-> 📦 189.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-🌆 Daytime    38 commits     █████████████░░░░░░░░░░░░   54.29% 
-🌃 Evening    26 commits     █████████░░░░░░░░░░░░░░░░   37.14% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Tuesday      22 commits     ███████░░░░░░░░░░░░░░░░░░   31.43% 
-Wednesday    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Friday       9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-Saturday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
-Sunday       15 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+🌆 Daytime    38 commits     █████████████░░░░░░░░░░░░   53.52% 
+🌃 Evening    27 commits     █████████░░░░░░░░░░░░░░░░   38.03% 
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.04%
 
 ```
 
@@ -75,15 +51,10 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Almaty
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -91,24 +62,12 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Java** 
-
-```text
-Java                     37 repos            ███████████████░░░░░░░░░░   61.67% 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-
-```
-
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/K-Rybak/K-Rybak/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/05/2022 12:02:38 UTC
+ Last Updated on 17/05/2022 12:11:38 UTC
 <!--END_SECTION:waka-->
 #
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-rybak&theme=solarized_dark)
