@@ -33,17 +33,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 #
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
-🌆 Daytime    38 commits     █████████████░░░░░░░░░░░░   53.52% 
-🌃 Evening    27 commits     █████████░░░░░░░░░░░░░░░░   38.03% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.04%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+🌆 Daytime    38 commits     ████████████░░░░░░░░░░░░░   51.35% 
+🌃 Evening    30 commits     ██████████░░░░░░░░░░░░░░░   40.54% 
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
 
 ```
 
@@ -62,12 +62,8 @@ No Activity Tracked This Week
 
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/K-Rybak/K-Rybak/main/charts/bar_graph.png) 
-
-
- Last Updated on 17/05/2022 12:11:38 UTC
+ Last Updated on 17/05/2022 12:21:52 UTC
 <!--END_SECTION:waka-->
 #
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-rybak&theme=solarized_dark)
