@@ -16,8 +16,8 @@
 🌍 I speak Russian (native), English (A2)
 
 ## Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krybak)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/k.rybak/)
+[![Telegram](https://img.shields.io/badge/@krybak-2CA5E0?style=social&logo=telegram&logoColor=white)](https://t.me/krybak)
+[![Instagram](https://img.shields.io/badge/k.rybak-%23E4405F.svg?style=social&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/k.rybak/)
 
 ## Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
