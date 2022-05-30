@@ -33,7 +33,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 #
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
 
@@ -52,23 +52,21 @@
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.81% 
-Python                   1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.43% 
-Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+Python                   1 hr 56 mins        ██████████████████████░░░   90.83% 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-Visual Studio            4 hrs 26 mins       █████████████████░░░░░░░░   67.6% 
-VS Code                  2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.4%
+VS Code                  2 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 34 mins       █████████████████████████   100.0%
+Windows                  2 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/05/2022 18:24:28 UTC
+ Last Updated on 30/05/2022 20:21:54 UTC
 <!--END_SECTION:waka-->
 #
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-rybak&theme=solarized_dark)
