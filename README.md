@@ -52,18 +52,21 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 hrs 58 mins       ████████████████████░░░░░   83.19% 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            3 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/08/2022 16:26:59 UTC
+ Last Updated on 11/08/2022 22:19:14 UTC
 <!--END_SECTION:waka-->
 #
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-rybak&theme=solarized_dark)
