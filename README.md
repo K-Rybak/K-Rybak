@@ -28,6 +28,7 @@
 ## 📚 Frameworks, Platforms and Libraries:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Asp.Net](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=asp.net&logoColor=white)
+![Asp.Net](https://img.shields.io/badge/ASP.NET%20CORE-5C2D91?style=for-the-badge&logo=asp.net&logoColor=white)
 
 ## 💻 IDEs/Editors:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
