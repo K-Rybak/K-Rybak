@@ -35,9 +35,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 #
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,17 +53,21 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       44 mins             ██████████████░░░░░░░░░░░   55.61 % 
+Binary                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+CSHTML                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/05/2023 18:38:54 UTC
+ Last Updated on 02/05/2023 18:39:14 UTC
 <!--END_SECTION:waka-->
 #
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-rybak&theme=solarized_dark)
