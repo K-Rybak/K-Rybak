@@ -34,39 +34,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 #
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-🌆 Daytime                156 commits         ██████████░░░░░░░░░░░░░░░   41.49 % 
-🌃 Evening                170 commits         ███████████░░░░░░░░░░░░░░   45.21 % 
-🌙 Night                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       6 mins              ████████████████████░░░░░   81.29 % 
-Binary                   1 min               █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-
-🔥 Editors: 
-Visual Studio            8 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 30/12/2023 18:38:48 UTC
-<!--END_SECTION:waka-->
-#
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K-rybak&theme=solarized_dark)
 #
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uivccrqvpafdzsk3vrzg4gc2yy&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
